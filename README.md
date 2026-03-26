@@ -25,10 +25,15 @@ Throughout my experience, I have helped organizations improve operational effici
  Core Competences
  
 • Data analysis & interpretation
+
 • Data-driven decision making
+
 • Data storytelling
+
 • Stakeholder communication
+
 • Problem solving
+
 • Business insight generation
 
  Technical skills
@@ -60,12 +65,19 @@ Statistical Modeling
  Soft Skills
  
 • Strong analytical and critical thinking
+
 • Clear communication and data storytelling
+
 • Stakeholder engagement and presentation skills
+
 • Problem-solving mindset
+
 • Attention to detail
+
 • Time management and ability to meet deadlines
+
 • Adaptability and continuous learning
+
 • Collaboration with cross-functional teams
  
 

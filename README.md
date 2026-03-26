@@ -38,29 +38,30 @@ Throughout my experience, I have helped organizations improve operational effici
 
  Technical skills
  
-🔹 Data Analysis
+◆ Data Analysis
 SQL
 Python (Pandas, NumPy)
 Microsoft Excel
 
-🔹 Data Visualization
+◆ Data Visualization
 Power BI
 Tableau
 
-🔹 Data Management
+◆ Data Management
 MySQL
 PostgreSQL
 Microsoft SQL Server
 
-🔹 Data Engineering
+◆ Data Engineering
 ETL Processes
 Data Cleaning
 Data Transformation
 
-🔹 Analytics
+◆ Analytics
 KPI Reporting
 Predictive Analytics
 Statistical Modeling
+ 
  
  Soft Skills
  

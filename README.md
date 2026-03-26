@@ -14,18 +14,66 @@ Throughout my experience, I have helped organizations improve operational effici
  
  • Improving data quality by 35% through structured data cleaning and transformation techniques
 
+My Aproach
+
+I take a collaborative approach to working with cross-functional teams, turning complex data into clear, actionable insights, and communicating findings to stakeholders and senior leadership to drive strategic decisions.
+
+What i bring to the table 
+
+Throughout my experience, I have helped organizations improve operational efficiency, optimize reporting processes, and enhance data-driven decision-making. My work has contributed to:
+
+ • Improving data driven decision making by 30% through advanced exploratory data analysis
+
+ • Reducing manual reporting processes by 25% through automation and optimized workflows
+
+ • Increasing dashboard engagement by 50% through intuitive data visualization
+ 
+ • Improving data quality by 35% through structured data cleaning and transformation techniques
+
+ Core Competences
+Data analysis & interpretation
+Data-driven decision making
+Data storytelling
+Stakeholder communication
+Problem solving
+Business insight generation
+
+ Technical skills
+🔹 Data Analysis
+SQL
+Python (Pandas, NumPy)
+Microsoft Excel
+
+🔹 Data Visualization
+Power BI
+Tableau
+
+🔹 Data Management
+MySQL
+PostgreSQL
+Microsoft SQL Server
+
+🔹 Data Engineering
+ETL Processes
+Data Cleaning
+Data Transformation
+
+🔹 Analytics
+KPI Reporting
+Predictive Analytics
+Statistical Modeling
+ 
+
+ Soft Skills
+Strong analytical and critical thinking
+Clear communication and data storytelling
+Stakeholder engagement and presentation skills
+Problem-solving mindset
+Attention to detail
+Time management and ability to meet deadlines
+Adaptability and continuous learning
+Collaboration with cross-functional teams
+ 
 
 
-**Omolara-Buhari/Omolara-Buhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

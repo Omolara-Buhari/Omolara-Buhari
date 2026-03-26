@@ -32,6 +32,7 @@ Problem solving
 Business insight generation
 
  Technical skills
+ 
 🔹 Data Analysis
 SQL
 Python (Pandas, NumPy)

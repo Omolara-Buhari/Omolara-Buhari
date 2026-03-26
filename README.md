@@ -39,6 +39,7 @@ Throughout my experience, I have helped organizations improve operational effici
  Technical skills
  
 ◆ Data Analysis
+
 SQL
 Python (Pandas, NumPy)
 Microsoft Excel

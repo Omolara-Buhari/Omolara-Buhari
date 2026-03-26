@@ -3,19 +3,21 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------    
 I am a Data Analyst passionate about transforming raw data into meaningful insights that support strategic decision making and business growth. I specialize in exploratory data analysis (EDA), data cleaning, dashboard development, and automated reporting. I leverage tools such as SQL, Python, Power BI, Tableau, and Excel to analyze complex datasets, identify patterns, and deliver insights that drive measurable business outcomes.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------- What I Do
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**What I Do**
 
 I analyze and interpret complex datasets, clean and transform data for analysis, and develop interactive dashboards and reports. I generate actionable insights to support data-driven decision-making and communicate findings clearly to stakeholders.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-My Aproach
+**My Aproach**
 
 I take a collaborative approach to working with cross-functional teams, turning complex data into clear, actionable insights, and communicating findings to stakeholders and senior leadership to drive strategic decisions.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Key Achievements
+**Key Achievements**
 
 Throughout my experience, I have helped organizations improve operational efficiency, optimize reporting processes, and enhance data-driven decision-making. My work has contributed to:
 
@@ -29,7 +31,7 @@ Throughout my experience, I have helped organizations improve operational effici
  
  -------------------------------------------------------------------------------------------------------------------------------------------------------
  
- Core Competences
+**Core Competences**
  
 • Data analysis & interpretation
 
@@ -45,7 +47,7 @@ Throughout my experience, I have helped organizations improve operational effici
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Technical skills
+ **Technical skills**
  
 ◆ Data Analysis
 SQL
@@ -73,7 +75,7 @@ Statistical Modeling
 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
  
- Soft Skills
+ **Soft Skills**
  
 • Strong analytical and critical thinking
 

@@ -1,14 +1,18 @@
  Hi there, I am Omolara 👋
 ----------------------------------------------------------------------------------------------------------------------------------------------------------    
 I am a Data Analyst passionate about transforming raw data into meaningful insights that support strategic decision making and business growth. I specialize in exploratory data analysis (EDA), data cleaning, dashboard development, and automated reporting. I leverage tools such as SQL, Python, Power BI, Tableau, and Excel to analyze complex datasets, identify patterns, and deliver insights that drive measurable business outcomes.
-  
-What I Do
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------- What I Do
 
 I analyze and interpret complex datasets, clean and transform data for analysis, and develop interactive dashboards and reports. I generate actionable insights to support data-driven decision-making and communicate findings clearly to stakeholders.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 My Aproach
 
 I take a collaborative approach to working with cross-functional teams, turning complex data into clear, actionable insights, and communicating findings to stakeholders and senior leadership to drive strategic decisions.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Key Achievements
 
@@ -21,7 +25,9 @@ Throughout my experience, I have helped organizations improve operational effici
  • Increasing dashboard engagement by 50% through intuitive data visualization
  
  • Improving data quality by 35% through structured data cleaning and transformation techniques
-
+ 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
  Core Competences
  
 • Data analysis & interpretation
@@ -35,6 +41,8 @@ Throughout my experience, I have helped organizations improve operational effici
 • Problem solving
 
 • Business insight generation
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
  Technical skills
  
@@ -61,7 +69,8 @@ Data Transformation
 KPI Reporting
 Predictive Analytics
 Statistical Modeling
- 
+
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------
  
  Soft Skills
  

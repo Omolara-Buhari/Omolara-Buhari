@@ -11,7 +11,7 @@ I analyze and interpret complex datasets, clean and transform data for analysis,
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**My Aproach**
+**My Approach**
 
 I take a collaborative approach to working with cross-functional teams, turning complex data into clear, actionable insights, and communicating findings to stakeholders and senior leadership to drive strategic decisions.
 

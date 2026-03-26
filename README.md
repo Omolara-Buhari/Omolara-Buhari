@@ -45,20 +45,24 @@ Python (Pandas, NumPy)
 Microsoft Excel
 
 ◆ Data Visualization
+
 Power BI
 Tableau
 
 ◆ Data Management
+
 MySQL
 PostgreSQL
 Microsoft SQL Server
 
 ◆ Data Engineering
+
 ETL Processes
 Data Cleaning
 Data Transformation
 
 ◆ Analytics
+
 KPI Reporting
 Predictive Analytics
 Statistical Modeling

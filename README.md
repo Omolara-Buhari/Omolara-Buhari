@@ -96,7 +96,7 @@ Statistical Modeling
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Let's connect**
+**Let's Connect**
 
 Focused on building real-world data projects and open to collaboration.
 

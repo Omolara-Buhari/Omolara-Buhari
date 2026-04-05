@@ -92,6 +92,12 @@ Statistical Modeling
 • Adaptability and continuous learning
 
 • Collaboration with cross-functional teams
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**Let's connect**
+Focused on building real-world data projects and open to collaboration.
+📧 Email: omolarabuhari1@gmail.com
+💼 LinkedIn: www.linkedin.com/in/omolarabuhari
+
  
 
 

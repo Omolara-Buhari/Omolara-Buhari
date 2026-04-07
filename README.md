@@ -1,7 +1,7 @@
 **Hi there, I am Omolara** 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------    
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support strategic decision making and business growth.I specialize in exploratory data analysis (EDA), data cleaning, dashboard development, and automated reporting. 
+I am a Data Analyst passionate about transforming raw data into meaningful insights that support strategic decision making and business growth. I specialize in exploratory data analysis (EDA), data cleaning, dashboard development, and automated reporting. 
 
 I leverage tools such as SQL, Python, Power BI, Tableau, and Excel to analyze complex datasets, identify patterns, and deliver insights that drive measurable business outcomes.
 

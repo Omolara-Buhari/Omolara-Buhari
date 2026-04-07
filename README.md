@@ -11,7 +11,9 @@ I leverage tools such as SQL, Python, Power BI, Tableau, and Excel to analyze co
 
 **What I Do**
 
-I analyze and interpret complex datasets, clean and transform data for analysis, and develop interactive dashboards and reports. I generate actionable insights to support data-driven decision-making and communicate findings clearly to stakeholders.
+I analyze and interpret complex datasets, clean and transform data for analysis, and develop interactive dashboards and reports. 
+
+I generate actionable insights to support data-driven decision-making and communicate findings clearly to stakeholders.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 

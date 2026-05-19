@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/omolarabuhari">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-bluestyle=for-the-badge&logo=linkedin" />
   </a>
   
   <a href="omolarabuhari1@gmail.com">

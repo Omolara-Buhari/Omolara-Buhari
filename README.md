@@ -125,10 +125,13 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 - Automated Reporting Solutions  
 
-> ## Project Files
-> 
+## Project Files
+
 - [Excel Dataset](./delivery-performance-data.xlsx)
-- [Presentation (PDF)](./delivery-performance-presentation.pdf) )*
+- [Presentation PDF](./delivery-performance-presentation.pdf)
+- [Dashboard Overview](./dashboard-overview.png)
+- [Dashboard Analysis](./dashboard-analysis.png)
+- [Detailed Report](./REPORT.MD)
 
 ---
 

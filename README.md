@@ -20,11 +20,11 @@ I am a passionate **Data Analyst** focused on transforming raw data into actiona
 
 I specialize in:  
 
-- 📌 Exploratory Data Analysis (EDA)  
-- 📌 Data Cleaning & Transformation  
-- 📌 Dashboard Development  
-- 📌 Automated Reporting  
-- 📌 KPI & Business Performance Analysis  
+-  Exploratory Data Analysis (EDA)  
+-  Data Cleaning & Transformation  
+-  Dashboard Development  
+-  Automated Reporting  
+-  KPI & Business Performance Analysis  
 
 Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze complex datasets, uncover trends, and build data-driven solutions that create measurable impact.
 
@@ -50,10 +50,10 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 | Achievement | Impact |
 |---|---|
-| 📊 Improved data-driven decision making | **30% increase** through advanced EDA |
-| ⚡ Automated reporting workflows | **25% reduction** in manual reporting |
-| 📉 Enhanced dashboard usability | **50% increase** in dashboard engagement |
-| 🧹 Improved data quality processes | **35% improvement** through structured cleaning |
+|  Improved data-driven decision making | **30% increase** through advanced EDA |
+|  Automated reporting workflows | **25% reduction** in manual reporting |
+|  Enhanced dashboard usability | **50% increase** in dashboard engagement |
+|  Improved data quality processes | **35% improvement** through structured cleaning |
 
 ---
 
@@ -91,12 +91,12 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 # 🧠 Core Competencies  
 
-- 📌 Data Analysis & Interpretation  
-- 📌 Data Storytelling  
-- 📌 Business Insight Generation  
-- 📌 Stakeholder Communication  
-- 📌 Problem Solving  
-- 📌 Strategic Decision Support  
+-  Data Analysis & Interpretation  
+-  Data Storytelling  
+-  Business Insight Generation  
+-  Stakeholder Communication  
+-  Problem Solving  
+-  Strategic Decision Support  
 
 ---
 

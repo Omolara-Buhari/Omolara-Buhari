@@ -115,23 +115,11 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 # Featured Projects  
 
-- Business Intelligence Dashboards  
+### Delivery Performance Analysis
+End-to-end Excel analysis project focused on delivery operations, delays, customer satisfaction, and KPI reporting.
 
-- Sales & Performance Analytics  
-
-- Data Cleaning & Transformation Projects  
-
-- KPI Reporting Systems  
-
-- Automated Reporting Solutions  
-
-## Project Files
-
-- [Excel Dataset](./delivery-performance-data.xlsx)
-- [Presentation PDF](./delivery-performance-presentation.pdf)
-- [Dashboard Overview](./dashboard-overview.png)
-- [Dashboard Analysis](./dashboard-analysis.png)
-- [Detailed Report](./REPORT.MD)
+🔗 Project Repository:
+[View Project](https://github.com/Omolara-Buhari/delivery-performance-analysis-excel)
 
 ---
 

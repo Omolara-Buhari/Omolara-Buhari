@@ -57,7 +57,7 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 ---
 
-# 🛠 Tech Stack  
+#  Tech Stack  
 
 ## 📊 Data Analysis
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)

@@ -32,17 +32,17 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 ## 💼 What I Do  
 
-✔ Analyze and interpret complex datasets  
+- Analyze and interpret complex datasets  
 
-✔ Clean, structure, and transform raw data for analysis  
+- Clean, structure, and transform raw data for analysis  
 
-✔ Build interactive dashboards and reports  
+- Build interactive dashboards and reports  
 
-✔ Generate actionable business insights  
+- Generate actionable business insights  
 
-✔ Support data-driven decision-making  
+- Support data-driven decision-making  
 
-✔ Present findings clearly to stakeholders and leadership  
+- Present findings clearly to stakeholders and leadership  
 
 ---
 

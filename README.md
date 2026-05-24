@@ -125,7 +125,9 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 - Automated Reporting Solutions  
 
-> *(Add your GitHub project links here)*
+> *(## Project Files
+- [Excel Dataset](./delivery-performance-data.xlsx)
+- [Presentation (PDF)](./delivery-performance-presentation.pdf) )*
 
 ---
 

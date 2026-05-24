@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Omolara  
+#  Hi, I'm Omolara  
 
-### 📊 Data Analyst | Turning Data Into Business Insights  
+###  Data Analyst | Turning Data Into Business Insights  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/omolarabuhari" target="_blank">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 I am a passionate **Data Analyst** focused on transforming raw data into actionable insights that support strategic decision-making and business growth.  
 
@@ -46,7 +46,7 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 ---
 
-## 📈 Key Achievements  
+## Key Achievements  
 
 | Achievement | Impact |
 |---|---|
@@ -89,7 +89,7 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 ---
 
-# 🧠 Core Competencies  
+# Core Competencies  
 
 -  Data Analysis & Interpretation  
 -  Data Storytelling  
@@ -100,7 +100,7 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 ---
 
-# 🌟 Soft Skills  
+#  Soft Skills  
 
 - Strong analytical thinking  
 - Effective communication  
@@ -113,17 +113,17 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 ---
 
-# 📂 Featured Projects  
+# Featured Projects  
 
-🔹 Business Intelligence Dashboards  
+- Business Intelligence Dashboards  
 
-🔹 Sales & Performance Analytics  
+- Sales & Performance Analytics  
 
-🔹 Data Cleaning & Transformation Projects  
+- Data Cleaning & Transformation Projects  
 
-🔹 KPI Reporting Systems  
+- KPI Reporting Systems  
 
-🔹 Automated Reporting Solutions  
+- Automated Reporting Solutions  
 
 > *(Add your GitHub project links here)*
 
@@ -141,6 +141,6 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 
 
-## ⚡ Fun Fact  
+##  Fun Fact  
 
 I enjoy turning messy datasets into meaningful stories that drive smarter business decisions.

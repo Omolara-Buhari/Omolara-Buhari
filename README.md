@@ -121,6 +121,14 @@ End-to-end Excel analysis project focused on delivery operations, delays, custom
 🔗 Project Repository:
 [View Project](https://github.com/Omolara-Buhari/delivery-performance-analysis-excel)
 
+### Customer Complaint Analytics
+
+Analyzed customer complaints in the finance industry to identify trends, evaluate company response performance, and uncover areas for improvement through interactive dashboards and KPI reporting.
+
+🔗 **Project Repository:** [View Project](https://github.com/Omolara-Buhari/customer-complaint-analytics)
+
+**Tools:** Excel • Power BI • Data Cleaning • Data Visualization • KPI Reporting
+
 ---
 
 # 📫 Let's Connect  

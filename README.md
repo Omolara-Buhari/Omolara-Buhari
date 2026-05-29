@@ -123,7 +123,7 @@ End-to-end Excel analysis project focused on delivery operations, delays, custom
 
 ### Customer Complaint Analytics
 
-Analyzed customer complaints in the finance industry to identify trends, evaluate company response performance, and uncover areas for improvement through interactive dashboards and KPI reporting.
+Analyzed customer complaints in the financial services industry to identify trends, evaluate company response performance, and uncover opportunities for improving customer experience through interactive dashboards and KPI reporting
 
 🔗 **Project Repository:** [View Project](https://github.com/Omolara-Buhari/customer-complaint-analytics)
 

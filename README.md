@@ -117,6 +117,7 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 ### Delivery Performance Analysis
 End-to-end Excel analysis project focused on delivery operations, delays, customer satisfaction, and KPI reporting.
+
 **Tools:** Excel  • Data Cleaning  • Pivot Table  • Data visualiation  • KPI Reporting
 
 

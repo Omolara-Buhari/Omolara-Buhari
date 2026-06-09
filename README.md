@@ -136,9 +136,9 @@ Analyzed customer complaints in the financial services industry to identify tren
 
 Analyzed sales performance, customer behaviour, product performance, and delivery trends using Python. Performed data cleaning, feature engineering, exploratory data analysis, and visualization to generate actionable business insights.
 
-View Project
+🔗 Project Repository: [View Project](https://github.com/Omolara-Buhari/green-cart-sales-customer-insights)
 
-**Tools** Python • Pandas • NumPy • Matplotlib • Seaborn • Data Cleaning • Exploratory Data Analysis • Data Visualization • Business Reporting
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn • Data Cleaning • Exploratory Data Analysis • Data Visualization • Business Reporting
 
 ---
 

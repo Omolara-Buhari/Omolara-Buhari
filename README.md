@@ -113,7 +113,7 @@ Using tools like **SQL, Python, Power BI, Tableau, and Excel**, I analyze comple
 
 ---
 
-# Featured Projects  
+# Data Analytics Projects  
 
 ### Delivery Performance Analysis
 End-to-end Excel analysis project focused on delivery operations, delays, customer satisfaction, and KPI reporting.
@@ -131,6 +131,14 @@ Analyzed customer complaints in the financial services industry to identify tren
 🔗 **Project Repository:** [View Project](https://github.com/Omolara-Buhari/customer-complaint-analytics)
 
 **Tools:** Power BI • Data Cleaning • Data Visualization • KPI Reporting
+
+### Green Cart Sales & Customer Behaviour Insights
+
+Analyzed sales performance, customer behaviour, product performance, and delivery trends using Python. Performed data cleaning, feature engineering, exploratory data analysis, and visualization to generate actionable business insights.
+
+View Project
+
+**Tools** Python • Pandas • NumPy • Matplotlib • Seaborn • Data Cleaning • Exploratory Data Analysis • Data Visualization • Business Reporting
 
 ---
 
